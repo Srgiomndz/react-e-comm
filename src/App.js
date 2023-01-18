@@ -10,7 +10,7 @@ function App() {
    return (
       <div className='App'>
       <ShopContextProvider>
-         <Router basename='https://github.com/Srgiomndz/react-e-comm'>
+         <Router>
          <Navbar />
             <Routes>
                <Route path='/' element={<Shop/>} />
