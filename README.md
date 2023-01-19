@@ -1,4 +1,4 @@
-## React shopping site using Context API
+## React shopping cart using Context API
 
 An E commerce site front-end with shopping cart functionality that uses Context API to share state across the app. Built with React, JavaScript, and CSS. I created this project to learn more about the React Context API and how using it can help us avoid verbose prop drilling.
 
@@ -27,8 +27,5 @@ To Visit App:
 `localhost:3000/`  
 
 ## Reflection
-
-
-
 
 At the end of the day, the technologies implemented in this project are React, React-Router 6.0, VanillaJS, JSX, and CSS. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into react concepts and Context. In the next iteration I plan on handrolling a `webpack.config.js` file to more fully understand the build process.
